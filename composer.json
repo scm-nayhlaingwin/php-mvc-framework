@@ -1,0 +1,15 @@
+{
+    "name": "nayhlaingwin/php_mvc_frame-work",
+    "authors": [
+        {
+            "name": "nayhlaingwin",
+            "email": "nay.hlaingwin@seattleconsultingmyanmar.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
